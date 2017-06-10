@@ -1,0 +1,15 @@
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\bin\Release\APP.exe.config
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\bin\Release\APP.exe
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\bin\Release\APP.pdb
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\obj\Release\APP.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\obj\Release\APP.Form1.resources
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\obj\Release\APP.Properties.Resources.resources
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\obj\Release\APP.csproj.GenerateResource.Cache
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\obj\Release\APP.exe
+C:\Users\Root\Documents\Visual Studio 2013\Projects\APP\APP\obj\Release\APP.pdb
+C:\Users\Root\Desktop\APP\APP\bin\Release\APP.exe.config
+C:\Users\Root\Desktop\APP\APP\obj\Release\APP.exe
+C:\Users\Root\Desktop\APP\APP\obj\Release\APP.pdb
+C:\Users\Root\Desktop\胡钦-160919\APP\APP\bin\Release\APP.exe.config
+C:\Users\Root\Desktop\胡钦-160919\APP\APP\obj\Release\APP.exe
+C:\Users\Root\Desktop\胡钦-160919\APP\APP\obj\Release\APP.pdb
